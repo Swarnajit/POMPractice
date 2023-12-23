@@ -5,9 +5,10 @@
     <classes>
       <class name="com.tech.practice.TestMethods_GoogleSearch">
         <methods>
+          <include name="githubLogin"/>
           <include name="afterTest"/>
-          <include name="searchOperation"/>
           <include name="beforeTest"/>
+          <include name="searchOperation"/>
         </methods>
       </class> <!-- com.tech.practice.TestMethods_GoogleSearch -->
     </classes>
